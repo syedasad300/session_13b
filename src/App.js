@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from 'react';
+import React from 'react';
 import './App.css';
 import useWebAnimations from '@wellyshen/use-web-animations';
 
